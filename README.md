@@ -185,7 +185,7 @@ Enter 1 for yes and 0 for no: 0
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mahi Panchal**
 - GitHub: https://github.com/Mahi-Panchal
 - LinkedIn: www.linkedin.com/in/mahi-panchal-26344931a
   
